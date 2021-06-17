@@ -1,0 +1,17 @@
+Variables: Son como cajas que guardan un valor. Este valor puede ser un numero, una frase, una letra o un objeto. 
+Esta caja esta etiquetada con un nombre para reconocerla y acceder a ella.
+
+String: Es un conjunto de letras o caracteres que forman una palabra o frase.
+
+Funcion(argumentos, return): Es un conjunto de pasos que el computador lee 
+y hace cada vez que se llama por su nombre a esta función.
+Un argumento es una variable que se le pasa a la funcion para que pueda cumplirse,
+como un ingrediente que se le pasa a una receta para poder seguirla correctamente.
+Return se usa como una instruccion dentro de la funcion para obtener algun resultado
+de la funcion, por ejemplo si todos los pasos de la receta se siguen, al final el proceso
+de seguir la receta va a devolver o vamos a obtener la comida que se estuviese preparando.
+
+El bloque if sirve para preguntar si una accion se cumple poder hacer alguna accion y si
+no entonces se podra hacer otra accion o ninguna.
+
+
