@@ -1,0 +1,14 @@
+concepto for: Significa que un conjunto de instrucciones o 
+pasos se ponen a repetir tantas veces como se necesite y 
+se crea una variable que vaya guardando el número de cada 
+repeticion, es decir: primera, segunda, tercera, etcetera, 
+pero con numeros; 1,2,3,...
+
+concepto &&: Es un simbolo que significa "y". Se utiliza para 
+unir una frase que tiene una condición con otra condición. Cuando se 
+junta este simbolo con dos o mas condiciones, se indica que ambas deben cumplirse.
+
+concepto ||: Es un simbolo que al contrario que el anterior, significa "o".
+También se utiliza para unir dos condiciones, en general junto con un if (sí)
+para comparar si una se cumple o la otra se cumple, pero no importa si una se cumple
+o la otra, puede ser cualquiera de las dos pero no ninguna.
